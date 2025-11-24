@@ -29,7 +29,7 @@ Background GIF by [Mercenary Garage](https://tr.pinterest.com/pin/41518246509365
 - 🏅 Competitor at **Datathon 2024 – Kaggle Competition**  
 - 👨🏻‍🏫 Online **Math & Python Instructor at Kodland**
 
-<div align="center">
+<div align="left">
 
 ## 💻 Tech Stack ⚡
 
@@ -55,7 +55,7 @@ Background GIF by [Mercenary Garage](https://tr.pinterest.com/pin/41518246509365
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-<div align="center">
+<div align="left">
   
 ##  📈 GitHub Stats 
 

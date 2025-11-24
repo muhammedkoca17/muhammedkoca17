@@ -11,7 +11,7 @@ Background GIF by [Mercenary Garage](https://tr.pinterest.com/pin/41518246509365
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:muhammedkoca129@gmail.com) &nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="100px" />](https://www.kaggle.com/muhammedkoca17)
 
-<div align="center">
+<div>
 
 ### 🧠 About Me
 ---
@@ -24,7 +24,7 @@ Background GIF by [Mercenary Garage](https://tr.pinterest.com/pin/41518246509365
 - 🏅 Competitor at **Datathon 2024 – Kaggle Competition**  
 - 👨🏻‍🏫 Online **Math & Python Instructor at Kodland**
 
-<div align="center">
+<div>
 
 ### 💻 Tech Stack ⚡
 ---

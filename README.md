@@ -9,6 +9,6 @@ Background GIF by [Mercenary Garage](https://tr.pinterest.com/pin/41518246509365
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/muhammedkoca17) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/myacademicdailymuhammedkoca/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:muhammedkoca129@gmail.com) &nbsp;
-[![Kaggle](https://skillicons.dev/icons?i=kaggle)](https://www.kaggle.com/muhammedkoca17)
+[<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" />](https://www.kaggle.com/muhammedkoca17)
 
 </div>

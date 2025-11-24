@@ -13,16 +13,9 @@ Background GIF by [Mercenary Garage](https://tr.pinterest.com/pin/41518246509365
 
 </div>
 
-
-<br/>
-
 <img align="right" alt="GIF" src="assets/techstack.gif" width="360px"/> 
-<br/>
-<br/>
-<br/>
-<br/>
-## 🧠 About Me
 
+## 🧠 About Me
 - 🎓 Completed **Electrical & Electronics Engineering (GPA 3.42)**  
 - 🧪 TÜBİTAK 2209-B supported **SMPS Welding Power Supply** project with Magmaweld  
 - 🤖 Designing **AI-powered automation & collaborative robot systems** (Dobot CR Series, sensors, pneumatic systems, PLC/HMI integrations)  

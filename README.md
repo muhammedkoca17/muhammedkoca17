@@ -61,7 +61,6 @@ Background GIF by [Mercenary Garage](https://tr.pinterest.com/pin/41518246509365
 
 ### 📊 Github Stats
 
-<table>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=muhammedkoca17&show_icons=true&theme=synthwave&hide_border=false" />

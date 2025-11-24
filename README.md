@@ -15,6 +15,7 @@ Background GIF by [Mercenary Garage](https://tr.pinterest.com/pin/41518246509365
 
 ## 🧠 About Me
 
+<div>
 ---
 - 🎓 Completed **Electrical & Electronics Engineering (GPA 3.42)**  
 - 🧪 TÜBİTAK 2209-B supported **SMPS Welding Power Supply** project with Magmaweld  
@@ -53,6 +54,7 @@ Background GIF by [Mercenary Garage](https://tr.pinterest.com/pin/41518246509365
 <div align="center"
   
 ## 📈 GitHub Stats
+
 ---
 
 <table>

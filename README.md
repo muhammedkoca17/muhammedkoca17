@@ -1,8 +1,6 @@
-div align="center">
+<div align="center">
 
-[![Hi, I'm Muhammed!](assets/header.gif)](https://github.com/muhammedkoca17)
+[![Hello World, I'm Muhammed!](https://i.pinimg.com/originals/ce/13/d8/ce13d8fa9d17ec31e7b80934f46f8f6f.gif)](https://github.com/muhammedkoca17)  
+Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
 
-### 👨‍💻 Turning data into AI-powered solutions  
-Building models that understand the world and make life easier.
 
-</div>

@@ -9,7 +9,7 @@ Background GIF by [Mercenary Garage](https://tr.pinterest.com/pin/41518246509365
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/muhammedkoca17) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/myacademicdailymuhammedkoca/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:muhammedkoca129@gmail.com) &nbsp;
-[<img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="34px" />](https://www.kaggle.com/muhammedkoca17)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40px" style="vertical-align:middle; margin-top:4px;" />](https://www.kaggle.com/muhammedkoca17)
 
 
 

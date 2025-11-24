@@ -15,7 +15,6 @@ Background GIF by [Mercenary Garage](https://tr.pinterest.com/pin/41518246509365
 
 ## 🧠 About Me
 
----
 - 🎓 Completed **Electrical & Electronics Engineering (GPA 3.42)**  
 - 🧪 TÜBİTAK 2209-B supported **SMPS Welding Power Supply** project with Magmaweld  
 - 🤖 Designing **AI-powered automation & collaborative robot systems** (Dobot CR Series, sensors, pneumatic systems, PLC/HMI integrations)  
@@ -28,7 +27,8 @@ Background GIF by [Mercenary Garage](https://tr.pinterest.com/pin/41518246509365
 <div align="center">
 
 ## 💻 Tech Stack ⚡
----
+
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -50,11 +50,9 @@ Background GIF by [Mercenary Garage](https://tr.pinterest.com/pin/41518246509365
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-<div align="center"
+<div align="center">
   
 ##  📈 GitHub Stats 
-
----
 
 <table>
   <tr>

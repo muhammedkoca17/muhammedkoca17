@@ -24,14 +24,7 @@ Background GIF by [Mercenary Garage](https://tr.pinterest.com/pin/41518246509365
 - 🧠 Working actively with **Machine Learning, Deep Learning, Computer Vision, LLMs, RAG, and data pipelines**  
 - 📈 Focused on **data analysis, preprocessing, manipulation & feature engineering**  
 - 👁️ Experience in **CNN models**, image classification, image augmentation, color & lighting robustness  
-- 🎯 Participant in ML & AI programs:  
-   - **Aygaz ML Bootcamp**  
-   - **Aygaz Computer Vision Bootcamp**  
-   - **Akbank Deep Learning Bootcamp**  
-   - **BTK Academy – ML to DL (72 hours)**  
-   - **IBM & Kodluyoruz CyberStart Program**  
-   - **Elginkan Foundation Python + SQL OOP Training**  
 - 🏅 Competitor at **Datathon 2024 – Kaggle Competition**  
 - 👨🏻‍🏫 Online **Math & Python Instructor at Kodland**
-- 📚 Love working on **AI projects** that connect raw data with real-world applicability  
-- 💬 Always open to collaboration: ML, CV, DL, LLMs, API development and robotics applications  
+
+<br>

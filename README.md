@@ -13,7 +13,7 @@ Background GIF by [Mercenary Garage](https://tr.pinterest.com/pin/41518246509365
 
 <div align="center">
 
-### 🧠 About Me
+## 🧠 About Me
 
 ---
 - 🎓 Completed **Electrical & Electronics Engineering (GPA 3.42)**  
@@ -27,7 +27,7 @@ Background GIF by [Mercenary Garage](https://tr.pinterest.com/pin/41518246509365
 
 <div align="center">
 
-### 💻 Tech Stack ⚡
+## 💻 Tech Stack ⚡
 ---
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -52,7 +52,7 @@ Background GIF by [Mercenary Garage](https://tr.pinterest.com/pin/41518246509365
 
 <div align="center"
   
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 ---
 
 <table>

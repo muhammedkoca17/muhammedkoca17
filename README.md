@@ -43,7 +43,7 @@ Background GIF by [Mercenary Garage](https://tr.pinterest.com/pin/41518246509365
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-br>
+<br>
 
 <!-- DATA SCIENCE -->
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)

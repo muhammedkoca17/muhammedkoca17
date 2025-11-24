@@ -11,5 +11,27 @@ Background GIF by [Mercenary Garage](https://tr.pinterest.com/pin/41518246509365
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:muhammedkoca129@gmail.com) &nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="100px" />](https://www.kaggle.com/muhammedkoca17)
 
-
 </div>
+
+<img align="right" alt="GIF" src="assets/techstack.gif" width="360px"/>
+<br>
+  
+## 🧠 About Me
+
+- 🎓 Completed **Electrical & Electronics Engineering (GPA 3.42)**  
+- 🧪 TÜBİTAK 2209-B supported **SMPS Welding Power Supply** project with Magmaweld  
+- 🤖 Designing **AI-powered automation & collaborative robot systems** (Dobot CR Series, sensors, pneumatic systems, PLC/HMI integrations)  
+- 🧠 Working actively with **Machine Learning, Deep Learning, Computer Vision, LLMs, RAG, and data pipelines**  
+- 📈 Focused on **data analysis, preprocessing, manipulation & feature engineering**  
+- 👁️ Experience in **CNN models**, image classification, image augmentation, color & lighting robustness  
+- 🎯 Participant in ML & AI programs:  
+   - **Aygaz ML Bootcamp**  
+   - **Aygaz Computer Vision Bootcamp**  
+   - **Akbank Deep Learning Bootcamp**  
+   - **BTK Academy – ML to DL (72 hours)**  
+   - **IBM & Kodluyoruz CyberStart Program**  
+   - **Elginkan Foundation Python + SQL OOP Training**  
+- 🏅 Competitor at **Datathon 2024 – Kaggle Competition**  
+- 👨🏻‍🏫 Online **Math & Python Instructor at Kodland**
+- 📚 Love working on **AI projects** that connect raw data with real-world applicability  
+- 💬 Always open to collaboration: ML, CV, DL, LLMs, API development and robotics applications  

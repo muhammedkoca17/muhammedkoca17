@@ -17,7 +17,10 @@ Background GIF by [Mercenary Garage](https://tr.pinterest.com/pin/41518246509365
 <br/>
 
 <img align="right" alt="GIF" src="assets/techstack.gif" width="360px"/> 
-
+<br/>
+<br/>
+<br/>
+<br/>
 ## 🧠 About Me
 
 - 🎓 Completed **Electrical & Electronics Engineering (GPA 3.42)**  

@@ -70,4 +70,4 @@ Background GIF by [Mercenary Garage](https://tr.pinterest.com/pin/41518246509365
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedkoca17&layout=compact&theme=synthwave&hide_border=false" />
     </td>
   </tr>
-</table>
+

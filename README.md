@@ -24,3 +24,20 @@ Background GIF by [Mercenary Garage](https://tr.pinterest.com/pin/41518246509365
 - 🏅 Competitor at **Datathon 2024 – Kaggle Competition**  
 - 👨🏻‍🏫 Online **Math & Python Instructor at Kodland**
 
+### 🚀 Tech Stack
+
+---
+
+## 🔨 Languages
+<div align="center">
+
+<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="42px"/></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="42px"/></a>
+<a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="42px"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="42px"/></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="42px"/></a>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" height="42px"/></a>
+
+</div>
+
+---

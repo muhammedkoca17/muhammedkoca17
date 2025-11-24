@@ -12,7 +12,4 @@ Background GIF by [Mercenary Garage](https://tr.pinterest.com/pin/41518246509365
 [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="100px" />](https://www.kaggle.com/muhammedkoca17)
 
 
-
-
-
 </div>

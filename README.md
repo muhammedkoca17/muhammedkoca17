@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 [![Hello World, I'm Muhammed!](assets/header.gif)](https://github.com/muhammedkoca17)
 

@@ -1,4 +1,4 @@
-<div>
+<div align="center">
 
 [![Hello World, I'm Muhammed!](assets/header.gif)](https://github.com/muhammedkoca17)
 
@@ -11,9 +11,10 @@ Background GIF by [Mercenary Garage](https://tr.pinterest.com/pin/41518246509365
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:muhammedkoca129@gmail.com) &nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="100px" />](https://www.kaggle.com/muhammedkoca17)
 
-<div>
+<div align="center">
 
 ### 🧠 About Me
+
 ---
 - 🎓 Completed **Electrical & Electronics Engineering (GPA 3.42)**  
 - 🧪 TÜBİTAK 2209-B supported **SMPS Welding Power Supply** project with Magmaweld  
@@ -24,7 +25,7 @@ Background GIF by [Mercenary Garage](https://tr.pinterest.com/pin/41518246509365
 - 🏅 Competitor at **Datathon 2024 – Kaggle Competition**  
 - 👨🏻‍🏫 Online **Math & Python Instructor at Kodland**
 
-<div>
+<div align="center">
 
 ### 💻 Tech Stack ⚡
 ---
@@ -49,6 +50,8 @@ Background GIF by [Mercenary Garage](https://tr.pinterest.com/pin/41518246509365
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
+<div align="center"
+  
 ### 📈 GitHub Stats
 ---
 

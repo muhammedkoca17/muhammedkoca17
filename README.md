@@ -18,9 +18,7 @@
 </div>
 
 <div align="left">
-
-  
-- 🎓 Completed **Electrical & Electronics Engineering (GPA 3.42)**  
+ 
 - 🧪 TÜBİTAK 2209-B supported **SMPS Welding Power Supply** project with Magmaweld  
 - 🤖 Designing **AI-powered automation & collaborative robot systems** (Dobot CR Series, sensors, pneumatic systems, PLC/HMI integrations)  
 - 🧠 Working actively with **Machine Learning, Deep Learning, Computer Vision, LLMs, RAG, and data pipelines**  

@@ -1,10 +1,10 @@
-<div align="center">
+**<h1 align="center"> Hi, I'm Muhammed 👋! </h1>
+<p align="center">
+  <i>A passionate developer with a background in robotics, AI, and instructional technologies.</i><br/>
+  🎓 Electrical & Electronics Engineering  graduate from <b>CBU</b> (GPA 3.42)
+</p>
 
-[![Hello World, I'm Muhammed!](assets/header.gif)](https://github.com/muhammedkoca17)
-
-🚀 **Developer turning real-world problems into AI-powered solutions.**  
-
-Background GIF by [Mercenary Garage](https://tr.pinterest.com/pin/4151824650936552/) on [Pinterest](https://www.pinterest.com/).
+---
 
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/muhammedkoca17) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/myacademicdailymuhammedkoca/) &nbsp;

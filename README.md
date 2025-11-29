@@ -1,4 +1,4 @@
-**<h1 align="center"> Hi, I'm Muhammed 👋! </h1>
+<h1 align="center"> Hi, I'm Muhammed 👋! </h1>
 <p align="center">
   <i>A passionate developer with a background in robotics, AI, and instructional technologies.</i><br/>
   🎓 Electrical & Electronics Engineering  graduate from <b>Celal Bayar University</b> (GPA 3.42)

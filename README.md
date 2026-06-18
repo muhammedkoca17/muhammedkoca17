@@ -29,6 +29,12 @@
 
 <div align="left">
 
+## 💼 Open To
+- 🤝 Internship or freelance data science projects
+- 🚀 Collaborative research or team projects
+- ✍️ Technical writing and educational content development
+- 💡 Mentorship and knowledge sharing
+
 ## 💻 Tech Stack ⚡
 
 

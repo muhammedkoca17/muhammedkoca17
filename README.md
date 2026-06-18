@@ -6,12 +6,11 @@
 </p>
 
 <p align="center">
-  [[GitHub](https://skillicons.dev/icons?i=github)](https://github.com/muhammedkoca17) &nbsp;
-  [[LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/myacademicdailymuhammedkoca/) &nbsp;
-  [[Gmail](https://mailto:muhammedkoca129@gmail.com)](mailto:muhammedkoca129@gmail.com) &nbsp;
-  [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="30px" />](https://www.kaggle.com/muhammedkoca17)
+  [![GitHub](https://skillicons.dev/icons?i=github)(https://github.com/muhammedkoca17) &nbsp;
+  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/myacademicdailymuhammedkoca/) &nbsp;
+  [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:muhammedkoca129@gmail.com) &nbsp;
+  [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="100px" />](https://www.kaggle.com/muhammedkoca17)
 </p>
-
 ---
 
 ## 🧠 About Me

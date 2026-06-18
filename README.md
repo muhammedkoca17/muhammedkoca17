@@ -1,37 +1,41 @@
 <h1 align="center"> Hi, I'm Muhammed 👋! </h1>
 
 <p align="center">
-  <i>Electrical & Electronics Engineer | AI & Machine Learning Enthusiast</i><br/>
-  <b>Building intelligent, end-to-end AI pipelines from RAG agents to automated robotics.</b>
+  <i>Electrical & Electronics Engineer | Developer in Robotics & AI</i><br/>
+  <b>Focusing on Data Science, Machine Learning, and AI-powered Automation.</b>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/myacademicdailymuhammedkoca/">LinkedIn</a> &nbsp; | &nbsp;
-  <a href="https://www.kaggle.com/muhammedkoca17">Kaggle</a> &nbsp; | &nbsp;
-  <a href="mailto:muhammedkoca129@gmail.com">Contact</a>
+  [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/muhammedkoca17) &nbsp;
+  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/myacademicdailymuhammedkoca/) &nbsp;
+  [![Gmail](https://mailto:muhammedkoca129@gmail.com)](mailto:muhammedkoca129@gmail.com) &nbsp;
+  [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="30px" />](https://www.kaggle.com/muhammedkoca17)
 </p>
-
-## 💼 Open To
-- 🚀 Collaborative projects in LLMs, RAG, and Agentic Workflows
-- 🧠 Data Science & MLOps initiatives
-- 🤝 Technical mentorship and research contributions
 
 ---
 
-## 🚀 Currently Focused On
-- 🤖 **Agentic AI & RAG:** Architecting LLM-powered applications with robust RAG pipelines.
-- ⚙️ **MLOps & Automation:** Integrating AutoGluon and efficient model deployment pipelines.
-- 📈 **Behavioral Economics in Software:** Applying Nudge Theory to user-centric AI products (e.g., MindfulSpend AI).
+## 🧠 About Me
+- 🎓 **Electrical & Electronics Engineering** graduate from Celal Bayar University (GPA 3.42).
+- 🤖 **Automation & Robotics:** Designing AI-powered automation and collaborative robot systems (Dobot CR, PLC/HMI integrations).
+- 🧠 **AI & Data Science:** Active work in Machine Learning, Deep Learning, Computer Vision, and Data Pipelines.
+- 🚀 **Current Focus:** Building applications with **LLMs, RAG, Agentic Workflows**, and implementing **MLOps** practices.
+- 💡 **Interests:** Applying Behavioral Economics (Nudge Theory) to software products.
+- 👨🏻‍🏫 **Experience:** Online Math & Python Instructor at Kodland.
+
+## 💼 Open To
+- 🤝 Internship or freelance data science & AI projects.
+- 🚀 Collaborative research or team-based development.
+- ✍️ Technical writing and educational content creation.
+
+## 🌟 Key Projects
+*   **[MindfulSpend AI](https://github.com/muhammedkoca17/mindfulspend-AI-Web):** Behavior-based financial management platform using economic theories for user-centric AI.
+*   **[Task Manager Bot](https://github.com/muhammedkoca17/task_manager_bot):** Automated productivity assistant with modular architecture.
 
 ## 💻 Tech Stack ⚡
 - **Languages:** Python, C, C++, SQL
-- **AI/ML:** PyTorch, TensorFlow, Scikit-Learn, AutoGluon, Keras
+- **AI/ML/Data:** PyTorch, TensorFlow, Scikit-Learn, AutoGluon, Keras, Pandas, NumPy, OpenCV
 - **LLM/RAG:** LangChain, Vector DBs, Prompt Engineering
-- **Tools:** FastAPI, OpenCV, Pandas, NumPy, Git, VS Code, Notion
-
-## 🌟 Key Projects
-*   **[MindfulSpend AI](https://github.com/muhammedkoca17/mindfulspend-AI-Web):** A behavior-based financial management platform utilizing economic theories to guide user spending.
-*   **[Task Manager Bot](https://github.com/muhammedkoca17/task_manager_bot):** An automated productivity assistant built with modular task architecture.
+- **Tools:** FastAPI, Git, VS Code, Jupyter, Notion
 
 ---
 
